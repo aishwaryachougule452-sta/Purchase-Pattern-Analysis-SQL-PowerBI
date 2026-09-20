@@ -1,48 +1,27 @@
-# 🛒 Purchase Pattern Analytics  
-### 📊 Market Basket Analysis | SQL • Python • Power BI
+# Purchase Pattern Analysis
 
-## 🔍 Project Overview
-This project analyzes retail transaction data to understand **customer purchasing behavior** and **product relationships**. Using **Market Basket Analysis (Apriori)**, it uncovers frequently bought-together products and delivers **business-ready insights** through an interactive **Power BI dashboard**.
+This project analyzes customer purchasing patterns using SQL and Power BI to identify sales trends, customer behavior, top products, and revenue insights.
 
----
+## Tools & Technologies
 
-## 🎯 Objectives
-- Understand customer buying patterns  
-- Identify frequently co-occurring products  
-- Improve cross-selling and bundling strategies  
-- Support data-driven sales decisions  
+- MySQL
+- SQL
+- Power BI
+- Excel
 
----
+## Key Analysis
 
-## 🧰 Tools & Technologies
-- 🗄️ **SQL** – Data exploration & validation  
-- 🐍 **Python** – Data processing & Apriori algorithm  
-- 📈 **Power BI** – Interactive dashboard & visualization  
+- Customer purchasing behavior
+- Sales and revenue analysis
+- Top customers and products
+- Country-wise sales analysis
+- Quantity and price analysis
+- Purchase trends
 
----
+## Dashboard
 
-## 🧪 Methodology
-- **EDA & Data Cleaning** using SQL  
-- **Transaction preparation** in Python  
-- **Apriori Algorithm** for Market Basket Analysis  
-- **Dashboard development** in Power BI  
+An interactive Power BI dashboard was created to visualize key business insights and sales performance.
 
----
+## Project Outcome
 
-## 📊 Key Insights
-- Customers often purchase multiple items per transaction  
-- Certain products show strong association patterns  
-- Revenue is well distributed across products and regions  
-- High-value customers contribute significantly to sales  
-
----
-
-## 💡 Business Recommendations
-- Introduce product bundles based on frequent itemsets  
-- Apply targeted cross-sell strategies  
-- Focus promotions during peak sales periods  
-- Strengthen loyalty programs for repeat customers  
-
----
-
-
+The analysis helps understand customer purchase behavior and identify important sales and revenue patterns from transactional data.
